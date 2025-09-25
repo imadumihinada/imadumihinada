@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🎓 I am an Undergraduate Student<br>💻 Currently Learning on Cybersecurity<br>🧒 I am 22 years Old
+🎓 Undergraduate Student<br>💻 Currently Learning on Cybersecurity<br>
 
 
 ## 🌐 Socials:
